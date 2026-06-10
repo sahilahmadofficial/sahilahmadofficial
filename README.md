@@ -189,8 +189,8 @@ const sahil = {
 
 <div align="center">
 
-[![Attendance Notifier](https://github-readme-stats.vercel.app/api/pin/?username=sahilahmad-personal&repo=AttendanceNotifier&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=0)](https://github.com/sahilahmad-personal/AttendanceNotifier)
-[![AI ChatBot](https://github-readme-stats.vercel.app/api/pin/?username=sahilahmad-personal&repo=AI_ChatBot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=0)](https://github.com/sahilahmad-personal/AI_ChatBot)
+[![Attendance Notifier](https://github-readme-stats.vercel.app/api/pin/?username=sahilahmad-personal&repo=attendance-notifier&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=0)](https://github.com/sahilahmad-personal/attendance-notifier)
+[![AI ChatBot](https://github-readme-stats.vercel.app/api/pin/?username=sahilahmad-personal&repo=ai-chatbot&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&cache_seconds=0)](https://github.com/sahilahmad-personal/ai-chatbot)
 
 </div>
 
