@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilahmadofficial)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello.sahilahmad@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahilahmad.is-a.dev)
+[![Blog](https://img.shields.io/badge/Blog-CC0000?style=for-the-badge&logo=jekyll&logoColor=white)](https://sahilahmad.is-a.dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sahilahmadofficial&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS)
 
